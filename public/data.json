@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Study every day",
+    "body": "It's not easy been a good developer the one who really knows, not just write codes but knows what is behind the code. That's why you need to study, when i say \"study\" it means not just watch videos but also read something about what you are leaning and above all practice so you will become good.",
+    "user": {
+      "id": 1,
+      "name": "Edlâneo Manuel",
+      "avatar": "https://github.com/EdlanioJ.png"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Show what you have learned",
+    "body": "The world need to know what you have learned. So, show to everyone doing post on your linkedin, intagram or whatever you know as social network and if you don't have any social network show to your friends or neighborhood it's important people seen that you are learning",
+    "user": {
+      "id": 1,
+      "name": "Edlâneo Manuel",
+      "avatar": "https://github.com/EdlanioJ.png"
+    }
+  },
+  {
+    "id": 3,
+    "title": "You are still learning",
+    "body": "Normally people want to be perfect even if they are only at beginning of something, but you don't need to be if you start something you will make mistakes very simple mistakes",
+    "user": {
+      "id": 1,
+      "name": "Edlâneo Manuel",
+      "avatar": "https://github.com/EdlanioJ.png"
+    }
+  },
+  {
+    "id": 4,
+    "title": "If you like please don't give up",
+    "body": "Sometimes it can seem difficult but please don't give up, we want to do something we like and if we are successful in what we like, we will be people more happier",
+    "user": {
+      "id": 1,
+      "name": "Edlâneo Manuel",
+      "avatar": "https://github.com/EdlanioJ.png"
+    }
+  }
+]
